@@ -1,6 +1,5 @@
 # Java Chessboard Project
 <img src="chessboard.png" width="500"/>
-![Screenshot](chessboard.png)
 
 ## Overview
 This project creates a graphical chessboard using JavaFX.
