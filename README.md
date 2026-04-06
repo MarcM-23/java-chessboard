@@ -1,7 +1,5 @@
 # Java Chessboard Project
-
-# JavaFX Chessboard
-
+<img src="chessboard.png" width="500"/>
 ![Screenshot](chessboard.png)
 
 ## Overview
