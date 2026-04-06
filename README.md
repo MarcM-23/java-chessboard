@@ -1,5 +1,9 @@
 # Java Chessboard Project
 
+# JavaFX Chessboard
+
+![Screenshot](chessboard.png)
+
 ## Overview
 This project creates a graphical chessboard using JavaFX.
 
